@@ -1,0 +1,10 @@
+# binaries
+/bin/
+*.exe
+# local env files (may contain passwords)
+.env
+# editor folders
+.idea/
+.vscode/
+# OS junk
+.DS_Store
